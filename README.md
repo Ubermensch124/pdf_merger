@@ -14,9 +14,11 @@
 - fire (для работы с CLI)
 - PyPDF2
 
-Собранный docker image: <https://hub.docker.com/r/ubermensch124/pdf_merger/tags>
+[Собранный docker image](<https://hub.docker.com/r/ubermensch124/pdf_merger/tags>)
 
-Алгоритм запуска:
+---
+
+**Алгоритм запуска**:
 
 - Скачать Docker
 - Создать директорию с двумя папками: изначальные pdf и обновленные титульные листы
